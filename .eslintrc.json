@@ -30,8 +30,8 @@
   ],
   "rules": {
     "no-new":"off",
-    "arrow-parens": "off",
     "camelcase":"off",
+    "arrow-parens": "off",
     "react/prop-types": "off",
     "operator-linebreak": "off",
     "prettier/prettier": "error",
@@ -40,6 +40,8 @@
     "import/no-unresolved": "off",
     "jsx-a11y/no-autofocus": "off",
     "implicit-arrow-linebreak": "off",
+    "react/react-in-jsx-scope": "off",
+    "no-restricted-properties": "off",
     "react/jsx-props-no-spreading": "off",
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
