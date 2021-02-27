@@ -31,7 +31,6 @@ O Move it é um projeto que visa ajudar o programador(a) a ter um ambiente de tr
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/8zvp1Dw1suVo2CkIz4Ir9b/Move.it-1.0?node-id=160%3A2761). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
-
 <!-- ## 🌆 Telas -->
 
 <p align="center">
@@ -44,9 +43,11 @@ Você pode visualizar o layout do projeto no formato através [desse link](https
 
 > OBS: pode-se utilizar o gerenciador de pacotes npm ou o yarn para rodar os comandos abaixo
 
-Execute ```yarn install``` na raiz do projeto para instalar as dependências.
+- Faça um clone do repositório: ```git clone https://github.com/josejustino/move-it.git```
 
-Rode ```yarn dev``` na raiz do projeto para executá-lo. Acesse no browser de sua preferência via **localhost:3000**.
+- Execute ```yarn install``` na raiz do projeto para instalar as dependências.
+
+- Rode ```yarn dev``` na raiz do projeto para executá-lo. Acesse no browser de sua preferência via **localhost:3000**.
 
 ## 🤔 Como contribuir
 
