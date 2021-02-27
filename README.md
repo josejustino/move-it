@@ -39,7 +39,7 @@ Você pode visualizar o layout do projeto no formato através [desse link](https
     <img alt="" title="" src="imgs/print3.png">
 </p>
 
-## Para rodar a aplicação
+## :car: Para rodar a aplicação
 
 > OBS: pode-se utilizar o gerenciador de pacotes npm ou o yarn para rodar os comandos abaixo
 
