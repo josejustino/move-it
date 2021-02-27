@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img alt="DevRadar" title="#delicinha" src=".github/bethehero.svg" width="200px" />
+    <img alt="Move it" src="https://user-images.githubusercontent.com/13855043/109395247-155d4500-790a-11eb-8ef4-c7ac4bcab38a.png" width="600px" />
 </h1>
 
 <h4 align="center">
-  🚀 Semana OmniStack 11.0
+  🚀 NLW 4 - Rocketseat
 </h4>
 
 <p align="center">
@@ -23,7 +23,7 @@
 <br>
 
 <p align="center">
-  <img alt="BeTheHero" src=".github/bethehero.png" width="100%">
+  <img alt="move.it" src="" width="100%">
 </p>
 
 ## :rocket: Tecnologias
@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com a seguinte tecnologia:
 
 ## 💻 Projeto
 
-O MoveIt é um projeto que visa ajudar o programador(a) a ter um ambiente de trabalho mais, sugerindo exercícios a cada ciclo de 25 minutos, parecido com o ciclo pomodoro, mas com sugestões de exercícios para fazer durante os intervalos, e a cada ciclo completado com sucesso o usuário ganha XP indo para o próximo nível.
+O Move it é um projeto que visa ajudar o programador(a) a ter um ambiente de trabalho mais, sugerindo exercícios a cada ciclo de 25 minutos, parecido com o ciclo pomodoro, mas com sugestões de exercícios para fazer durante os intervalos, e a cada ciclo completado com sucesso o usuário ganha XP indo para o próximo nível.
 
 ## 🔖 Layout
 
