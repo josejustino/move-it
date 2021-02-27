@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Move.it logo" src="./public/logo-full.svg" width="600px" />
+    <img alt="Move.it logo" src="readme-images/logo-full.svg" width="600px" />
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-telas">Telas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <!-- <a href="#-telas">Telas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; -->
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
@@ -32,31 +32,21 @@ O Move it é um projeto que visa ajudar o programador(a) a ter um ambiente de tr
 
 Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/8zvp1Dw1suVo2CkIz4Ir9b/Move.it-1.0?node-id=160%3A2761). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
 
-## 🌆 Telas
+<!-- ## 🌆 Telas -->
 
 <p align="center">
     <img alt="" title="" src="imgs/print1.png">
     <img alt="" title="" src="imgs/print2.png">
     <img alt="" title="" src="imgs/print3.png">
-    <img alt="" title="" src="imgs/print4.png">
-    <img alt="" title="" src="imgs/print5.png">
-    <img alt="" title="" src="imgs/print6.png">
-    <img alt="" title="" src="imgs/print7.png">
-    <img alt="" title="" src="imgs/print8.png">
-    <img alt="" title="" src="imgs/print9.png">
-    <img alt="" title="" src="imgs/print-insomnia.png">
 </p>
 
 ## Para rodar a aplicação
 
 > OBS: pode-se utilizar o gerenciador de pacotes npm ou o yarn para rodar os comandos abaixo
 
-Execute ```npm install``` nas pastas backend, frontend e mobile, para instalar as dependências.
+Execute ```yarn install``` na raiz do projeto para instalar as dependências.
 
-Rode ```npm start``` nas pastas backend e frontend para utilizar a versão web. Acesse via **localhost:3000**.
-
-Rode ```npm start``` nas pastas backend e mobile, acesse **localhost:19002**, leia o QR Code no seu celular e utilize o aplicativo <img src="imgs/expo.png" alt="rocketseat" height="20"> Expo para rodar a versão mobile no seu smartphone. Ou com algum emulador Android/iOS para rodar no seu computador.
-
+Rode ```yarn dev``` na raiz do projeto para executá-lo. Acesse no browser de sua preferência via **localhost:3000**.
 
 ## 🤔 Como contribuir
 
@@ -67,7 +57,7 @@ Rode ```npm start``` nas pastas backend e mobile, acesse **localhost:19002**, le
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
-**&copy; <img src="imgs/rocketseat.svg" alt="rocketseat" height="20"> [Rocketseat](https://rocketseat.com.br/)**
+**&copy; <img src="readme-images/rocketseat.svg" alt="rocketseat" height="20"> [Rocketseat](https://rocketseat.com.br/)**
 
 **Instrutor: [Diego Fernandes](https://github.com/diego3g) | CTO Rocketseat**
 
