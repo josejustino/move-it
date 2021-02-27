@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Move it" src="https://user-images.githubusercontent.com/13855043/109395247-155d4500-790a-11eb-8ef4-c7ac4bcab38a.png" width="600px" />
+    <img alt="Move.it logo" src="./public/logo-full.svg" width="600px" />
 </h1>
 
 <h4 align="center">
@@ -23,7 +23,7 @@
 <br>
 
 <p align="center">
-  <img alt="move.it" src="" width="100%">
+  <img alt="move.it" src="./public/images/move-it.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
