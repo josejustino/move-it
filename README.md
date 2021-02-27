@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Move it é um projeto que visa ajudar o programador(a) a ter um ambiente de trabalho mais, sugerindo exercícios a cada ciclo de 25 minutos, parecido com o ciclo pomodoro, mas com sugestões de exercícios para fazer durante os intervalos, e a cada ciclo completado com sucesso o usuário ganha XP indo para o próximo nível.
+O Move it é um projeto que visa ajudar o programador(a) a ter um ambiente de trabalho mais saudável, sugerindo exercícios a cada ciclo de 25 minutos, parecido com o ciclo pomodoro, mas com sugestões de exercícios para fazer durante os intervalos, e a cada ciclo completado com sucesso o usuário ganha XP para ir para o próximo nível.
 
 ## 🔖 Layout
 
