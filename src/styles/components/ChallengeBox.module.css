@@ -91,7 +91,7 @@
 
   color: var(--white);
   font-weight: 600;
-  outline: none;
+  outline: transparent;
 
   transition: filter 0.2s;
 }
@@ -106,4 +106,14 @@
 
 .challengeActive footer button:hover {
   filter: brightness(0.9);
+}
+
+@media (max-width: 720px) {
+  .challengeActive main {
+    padding-top: 2rem;
+  }
+
+  .challengeActive footer {
+   margin-top: 2rem;
+ }
 }
