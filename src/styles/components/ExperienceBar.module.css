@@ -21,7 +21,7 @@
   border-radius: 4px;
   background: var(--green);
 
-  transition: background-color linear 0.2s;
+  transition: width 2s;
 }
 
 div.currentExperience {
@@ -31,6 +31,8 @@ div.currentExperience {
 
   display: flex;
   flex-direction: row;
+
+  transition: left 2s;
 }
 
 div.currentExperience span:nth-child(2) {
