@@ -12,7 +12,7 @@
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <!-- <a href="#-telas">Telas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; -->
+  <a href="#-telas">Telas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
@@ -23,6 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://reactjs.org)
 - [Next](https://nextjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
 
 ## 💻 Projeto
 
@@ -31,12 +32,14 @@ O Move it é um projeto que visa ajudar o programador(a) a ter um ambiente de tr
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/8zvp1Dw1suVo2CkIz4Ir9b/Move.it-1.0?node-id=160%3A2761). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
-<!-- ## 🌆 Telas -->
+
+## 🌆 Telas
 
 <p align="center">
-    <img alt="" title="" src="imgs/print1.png">
-    <img alt="" title="" src="imgs/print2.png">
-    <img alt="" title="" src="imgs/print3.png">
+    <img alt="" title="" src=".readme-images/print1.png">
+    <img alt="" title="" src=".readme-images/print2.png">
+    <img alt="" title="" src=".readme-images/print3.png">
+    <img alt="" title="" src=".readme-images/print4.png">
 </p>
 
 ## :car: Para rodar a aplicação
