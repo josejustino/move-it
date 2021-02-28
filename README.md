@@ -36,10 +36,10 @@ Você pode visualizar o layout do projeto no formato através [desse link](https
 ## 🌆 Telas
 
 <p align="center">
-    <img alt="" title="" src=".readme-images/print1.png">
-    <img alt="" title="" src=".readme-images/print2.png">
-    <img alt="" title="" src=".readme-images/print3.png">
-    <img alt="" title="" src=".readme-images/print4.png">
+    <img alt="" title="" src="./readme-images/print1.png">
+    <img alt="" title="" src="./readme-images/print2.png">
+    <img alt="" title="" src="./readme-images/print3.png">
+    <img alt="" title="" src="./readme-images/print4.png">
 </p>
 
 ## :car: Para rodar a aplicação
