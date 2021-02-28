@@ -45,7 +45,6 @@ export default function Home({
               <Countdown />
             </div>
             <ChallengeBox />
-            <div />
           </section>
         </CountdownProvider>
       </div>
