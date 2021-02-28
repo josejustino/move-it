@@ -16,15 +16,23 @@
   position: relative;
 }
 
-.experienceBar > div > div {
+.experienceBar > div > div:nth-child(1) {
   height: 4px;
   border-radius: 4px;
   background: var(--green);
+
+  transition: background-color linear 0.2s;
 }
 
-
-span.currentExperience {
+div.currentExperience {
   position: absolute;
   top: 12px;
   transform: translateX(-50%);
+
+  display: flex;
+  flex-direction: row;
+}
+
+div.currentExperience span:nth-child(2) {
+  margin-left: 0.25rem;
 }
