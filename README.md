@@ -42,15 +42,20 @@ Você pode visualizar o layout do projeto no formato através [desse link](https
     <img alt="" title="" src="./readme-images/print4.png">
 </p>
 
-## :car: Para rodar a aplicação
+## ▶ Para rodar a aplicação
+
+Antes de começar, instale o [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e [Yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable) na sua máquina.<br>
+Recomendo utilizar o terminal do [VSCode](https://code.visualstudio.com/).
 
 > OBS: pode-se utilizar o gerenciador de pacotes npm ou o yarn para rodar os comandos abaixo
 
+```bash
 - Faça um clone do repositório: ```git clone https://github.com/josejustino/move-it.git```
 
 - Execute ```yarn install``` na raiz do projeto para instalar as dependências.
 
 - Rode ```yarn dev``` na raiz do projeto para executá-lo. Acesse no browser de sua preferência via **localhost:3000**.
+```
 
 ## 🤔 Como contribuir
 
