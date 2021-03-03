@@ -50,7 +50,7 @@ Recomendo utilizar o terminal do [VSCode](https://code.visualstudio.com/).
 > OBS: pode-se utilizar o gerenciador de pacotes npm ou o yarn para rodar os comandos abaixo
 
 ```bash
-# Clone do repositório: 
+# Clone o repositório: 
 $ git clone https://github.com/josejustino/move-it.git
 
 # Acesse o repositório no seu terminal
