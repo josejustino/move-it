@@ -50,20 +50,19 @@ Recomendo utilizar o terminal do [VSCode](https://code.visualstudio.com/).
 > OBS: pode-se utilizar o gerenciador de pacotes npm ou o yarn para rodar os comandos abaixo
 
 ```bash
-# Faça um clone do repositório: 
-  $ git clone https://github.com/josejustino/move-it.git
+# Clone do repositório: 
+$ git clone https://github.com/josejustino/move-it.git
 
 # Acesse o repositório no seu terminal
-  $ cd move-it
+$ cd move-it
 
 # Instale as dependências
-  $ yarn install
+$ yarn install
 
 # Execute o projeto
-  $ yarn dev
-  
-# Acesse no browser de sua preferência via localhost:3000.
+$ yarn dev
 ```
+Acesse no browser de sua preferência via **localhost:3000**.
 
 ## 🤔 Como contribuir
 
